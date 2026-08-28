@@ -84,7 +84,7 @@ These metrics help measure how accurately the model predicts house prices.
 
 1. Clone the repository
 
-git clone https://github.com/omarrhussienn-ui/house-price-prediction.git
+git clone https://github.com/saidfarah360-cyber/house-price-prediction
 
 2. Navigate to the project directory
 
